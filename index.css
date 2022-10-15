@@ -1,0 +1,27 @@
+.recipelist,
+.title{
+    text-align: center;
+}
+
+h1.title{
+    margin-bottom: 0px;
+    background-color: rgb(212, 211, 211);
+}
+
+.recipeicon{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+.recipeul{
+    display: inline-block;
+    text-align: left;
+}
+a{
+    color: black;
+}
+
+.ulli{
+    margin-bottom: 5px;
+}
